@@ -1,8 +1,9 @@
 #Read ME
 
 View the Visuals here:
-[View Interactive Plot](si-figure-1.html)
 
-[View Interactive Plot](si-figure-2.html)
+[si-figure-1](figures/si-figure-1.html)
 
-[View Interactive Plot](si-figure-3.html)
+[si-figure-2](figures/si-figure-2.html)
+
+[si-figure-3](figures/si-figure-3.html)
